@@ -1,0 +1,12 @@
+Student 2
+Name: suyab amin sunny
+Gender: M
+Blood Group: A+
+Contact: 112330236
+Guardian: f
+Section: 2
+Age: 25
+Father name: asd
+Mother name: sss
+Program name: cse
+
